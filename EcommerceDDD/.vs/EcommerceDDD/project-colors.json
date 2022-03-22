@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7262eb4c-7c02-441e-8603-f1d1d4eb431f": {
+      "ProjectGuid": "7262eb4c-7c02-441e-8603-f1d1d4eb431f",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 0
+    },
+    "66592d4b-44b8-4a0b-90f5-e1ccd5840318": {
+      "ProjectGuid": "66592d4b-44b8-4a0b-90f5-e1ccd5840318",
+      "DisplayName": "Entities",
+      "ColorIndex": 1
+    },
+    "83177d81-7a19-46fb-805b-1daf3b8f676a": {
+      "ProjectGuid": "83177d81-7a19-46fb-805b-1daf3b8f676a",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 2
+    },
+    "2eb521a2-58e8-434d-8c36-6820704eca4f": {
+      "ProjectGuid": "2eb521a2-58e8-434d-8c36-6820704eca4f",
+      "DisplayName": "Domain",
+      "ColorIndex": 3
+    },
+    "67dfcea5-ea80-4cf3-898b-4af9c45c642b": {
+      "ProjectGuid": "67dfcea5-ea80-4cf3-898b-4af9c45c642b",
+      "DisplayName": "ApplicationApp",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

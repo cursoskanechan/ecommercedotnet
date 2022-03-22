@@ -1,0 +1,12 @@
+C:\Users\Alunos\source\repos\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\ApplicationApp.deps.json
+C:\Users\Alunos\source\repos\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\ApplicationApp.dll
+C:\Users\Alunos\source\repos\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\ref\ApplicationApp.dll
+C:\Users\Alunos\source\repos\EcommerceDDD\EcommerceDDD\ApplicationApp\bin\Debug\net6.0\ApplicationApp.pdb
+C:\Users\Alunos\source\repos\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\source\repos\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.AssemblyInfoInputs.cache
+C:\Users\Alunos\source\repos\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.AssemblyInfo.cs
+C:\Users\Alunos\source\repos\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.dll
+C:\Users\Alunos\source\repos\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ref\ApplicationApp.dll
+C:\Users\Alunos\source\repos\EcommerceDDD\EcommerceDDD\ApplicationApp\obj\Debug\net6.0\ApplicationApp.pdb
